@@ -1,0 +1,25 @@
+Fetch
+
+1. Fetch must provide url.Dynamic or static
+2.how to convert fetch promise return to json
+3.how to convert json to data
+4.[cool headed]:
+Users:
+ -->Array of objects
+ --->objects with property users
+ ---->objects with property called data
+
+ nested Object:
+ ---------------
+
+ DOM maniputaltion
+ 1.Get something from the dom
+ 2.create element to append to the dom
+ 3.dynamically load data based on id
+
+
+ ---------------
+ array ---> forEach, map, find, filter
+ -----
+ template string
+ 
